@@ -1,0 +1,17 @@
+{
+  "name": "airtribe-filemanagement-application",
+  "version": "1.0.0",
+  "description": "Airtribe file management backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
