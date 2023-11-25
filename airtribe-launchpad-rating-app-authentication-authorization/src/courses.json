@@ -1,0 +1,35 @@
+{
+    "airtribe": [
+        {
+            "course": "Backend engineering",
+            "courseId": 2,
+            "cohort": 1,
+            "college": "aitribe launchpad",
+            "semester": 3,
+            "instructor": "Pawan Panjwani",
+            "averageRating": 9.333333333333334,
+            "studentsVoted": 3
+        },
+        {
+            "course": "product management",
+            "courseId": 3,
+            "cohort": 1,
+            "college": "aitribe launchpad",
+            "semester": 4,
+            "instructor": "Pawan Panjwani",
+            "averageRating": 10,
+            "studentsVoted": 1
+        },
+        {},
+        {
+            "course": "Backend engineering test",
+            "courseId": 10,
+            "cohort": 1,
+            "college": "aitribe launchpad",
+            "semester": 3,
+            "instructor": "Pawan Panjwani",
+            "averageRating": 9.333333333333334,
+            "studentsVoted": 3
+        }
+    ]
+}
